@@ -1,1 +1,12 @@
-chapter1.txt
+chapters/Sustainability.txt
+chapters/Simplicity.txt
+chapters/Prioritization.txt
+chapters/RespondingToChange.txt
+chapters/Progress.txt
+chapters/IndividualsAndInteractions.txt
+chapters/SelfOrganization.txt
+chapters/TrustAndSupport.txt
+chapters/Collaboration.txt
+chapters/Excellence.txt
+chapters/FrequentDelivery.txt
+chapters/ContinuousImprovement.txt
